@@ -1,7 +1,7 @@
 
 # 📊 MKTG2031 课程笔记
 
-欢迎来到 **MKTG2031 课程笔记** 的 GitHub Pages 网站。
+欢迎来到 **MKTG2031 课程笔记
 
 ## 📌 章节内容
 📌 **Week 1: [市场营销概论](notes/week1.md)**  
