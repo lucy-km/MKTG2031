@@ -34,29 +34,44 @@ The study of the processes involved when individuals or groups select, purchase,
 **Why do we consume? Value**
 
 ### Value types
+为什么我们要消费？因为产品的价值!
 
 - **Exchange value**: A transaction in which two or more organisations or people give and receive something of value, e.g., market price.
+  交换价值（Exchange value）：一种交易行为，两个或多个组织或个人在其中进行交换，并获得某种有价值的东西，例如市场价格。
 - **Value-in-use**: Satisfaction from a good or service’s attributes and quality when consumed.
+  使用价值（Value-in-use）：商品或服务在消费过程中带来的满意度，取决于其属性和质量，即消费体验。
 - **Symbolic value**: Consumption as a means to communicate self- or social-identity.
+  象征价值（Symbolic value）：消费作为一种方式来传达自我或社会身份
 - **Value co-creation**: Collaboration between organisations and consumers to create value.
+  价值共创（Value co-creation）：不同于前面三种类型假设价值是从生产者单向传递给消费者，价值共创强调组织与消费者之间的合作，共同创造价值。
 
 ### Theoretical Perspectives of Consumption
 
-#### Economic perspective:
+#### Economic perspective （消费的理论视角）：
 - Products are a bundle of attributes that yield benefits.
+  产品是由一系列属性组成的，这些属性能带来效益（benefits）。
 - Industry creates value – Consumers destroy value.
+  产业创造价值，而消费者消耗价值（value）。
+
 
 #### Symbolic perspective:
 - Products are vessels of meaning that signify similarly across all consumers.
+  产品是意义的载体，在所有消费者之间具有相似的象征意义。
 - Industry creates symbols – symbols are transferred to consumers to create value.
+  产业创造符号，符号被传递给消费者，从而创造价值（value）。
+
 
 #### Consumer culture perspective:
 - Consumption is part of the market system and can be creative or destructive.
+  消费是市场体系的一部分，可以是创造性的，也可能是破坏性的（destructive）。
 - The market system is culturally embedded and involves multiple agents in different power positions.
+  市场体系受到文化的影响，其中涉及不同权力层级的多个主体。
+- Products are consumed in a variety of ways by different groups of consumers based on the cultural and market systems they are embedded within.
+不同群体的消费者在不同的文化和市场体系背景下，以多种方式消费产品，这些市场体系是他们所嵌入的环境。
 
----
 
-## Consumption: Research Perspectives
+
+## Consumption: Research Perspectives(研究视角)
 
 ### Consumer Behaviour Is Interdisciplinary
 
