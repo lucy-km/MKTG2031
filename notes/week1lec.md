@@ -186,5 +186,4 @@ The study of the processes involved when individuals or groups select, purchase,
 - 这比向消费者收取塑料袋费用更有效。
 
 ---
-
-这是Markdown格式的笔记，您可以直接上传到GitHub！
+📌 [🔙 返回首页](../index.md)
