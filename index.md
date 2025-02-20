@@ -1,10 +1,12 @@
+---
+title: MKTG2031 学习笔记
+layout: default
+---
+# 📖 MKTG2031 学习笔记
+这里是我在 MKTG2031 课程中的学习笔记。
 
-# 📊 MKTG2031 课程笔记
+## 📌 课程内容
+- [第一周笔记](notes/week1.md)
+- [第二周笔记](notes/week2.md)
 
-欢迎来到 **MKTG2031 课程笔记
-
-## 📌 章节内容
-📌 **Week 1: [市场营销概论](notes/week1.md)**  
-📌 **Week 2: [消费者行为](notes/week2.md)**  
-📌 **Week 3: [竞争分析](notes/week3.md)**  
-
+🚀 **敬请期待更多更新！**
