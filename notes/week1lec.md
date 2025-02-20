@@ -37,12 +37,16 @@ The study of the processes involved when individuals or groups select, purchase,
 为什么我们要消费？因为产品的价值!
 
 - **Exchange value**: A transaction in which two or more organisations or people give and receive something of value, e.g., market price.
+
   交换价值（Exchange value）：一种交易行为，两个或多个组织或个人在其中进行交换，并获得某种有价值的东西，例如市场价格。
 - **Value-in-use**: Satisfaction from a good or service’s attributes and quality when consumed.
+
   使用价值（Value-in-use）：商品或服务在消费过程中带来的满意度，取决于其属性和质量，即消费体验。
 - **Symbolic value**: Consumption as a means to communicate self- or social-identity.
+
   象征价值（Symbolic value）：消费作为一种方式来传达自我或社会身份
 - **Value co-creation**: Collaboration between organisations and consumers to create value.
+
   价值共创（Value co-creation）：不同于前面三种类型假设价值是从生产者单向传递给消费者，价值共创强调组织与消费者之间的合作，共同创造价值。
 
 ### Theoretical Perspectives of Consumption
