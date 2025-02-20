@@ -31,7 +31,7 @@ layout: default
 <div class="left-column">
 <h2>📂 课程 PPT</h2>
 <ul>
-  <li>📄 <a href="ppt/week1.pptx">第一周 PPT 下载</a></li>
+  <li>📄 <a href="notes/Lecture 1 Introduction 2025.pdf">第一周 PPT 下载</a></li>
   <li>📄 <a href="ppt/week2.pptx">第二周 PPT 下载</a></li>
 </ul>
 
