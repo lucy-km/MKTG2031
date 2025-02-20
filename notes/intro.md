@@ -145,7 +145,6 @@ This course provides a theoretical account of consumption as a **cultural activi
 - **Week 3 onwards:** Activity presentation, consumption activity, journal or profile report  
 
 ---  
-## **The End**  
-```
+
 📌 [🔙 返回首页](../index.md)
 
