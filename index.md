@@ -10,7 +10,7 @@ layout: default
 - [第二周笔记](notes/week2.md)
 
 ## 📂 课程 PPT
-- [第一周 PPT 下载](ppt/week1.pptx)
-- [第二周 PPT 下载](ppt/week2.pptx)
+- [第一周 PPT](ppt/week1.pptx)
+- [第二周 PPT](ppt/week2.pptx)
 
 🚀 **敬请期待更多更新！**
