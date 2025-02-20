@@ -7,3 +7,12 @@ kramdown:
 kramdown:
   input: GFM
   hard_wrap: false
+
+  title: "MKTG2031 学习笔记"
+description: "课程 PPT 和学习笔记"
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
