@@ -10,7 +10,7 @@ layout: default
 - [第二周笔记](notes/week2.md)
 
 ## 📌 PPT
-- [第一周PPT](notes/week1.md)
+- [第一周PPT](notes/Lecture 1 Introduction 2025.pdf)
 
 
 🚀 **敬请期待更多更新！**
