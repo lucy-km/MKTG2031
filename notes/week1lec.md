@@ -53,24 +53,31 @@ The study of the processes involved when individuals or groups select, purchase,
 
 #### Economic perspective （消费的理论视角）：
 - Products are a bundle of attributes that yield benefits.
+
   产品是由一系列属性组成的，这些属性能带来效益（benefits）。
 - Industry creates value – Consumers destroy value.
+
   产业创造价值，而消费者消耗价值（value）。
 
 
 #### Symbolic perspective:
 - Products are vessels of meaning that signify similarly across all consumers.
+
   产品是意义的载体，在所有消费者之间具有相似的象征意义。
 - Industry creates symbols – symbols are transferred to consumers to create value.
+
   产业创造符号，符号被传递给消费者，从而创造价值（value）。
 
 
 #### Consumer culture perspective:
 - Consumption is part of the market system and can be creative or destructive.
+
   消费是市场体系的一部分，可以是创造性的，也可能是破坏性的（destructive）。
 - The market system is culturally embedded and involves multiple agents in different power positions.
+
   市场体系受到文化的影响，其中涉及不同权力层级的多个主体。
 - Products are consumed in a variety of ways by different groups of consumers based on the cultural and market systems they are embedded within.
+
 不同群体的消费者在不同的文化和市场体系背景下，以多种方式消费产品，这些市场体系是他们所嵌入的环境。
 
 
