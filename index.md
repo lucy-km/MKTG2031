@@ -9,10 +9,6 @@ layout: default
 - [第一周笔记](notes/week1.md)
 - [第二周笔记](notes/week2.md)
 
-## 📂 课程 PPT
-- [第一周 PPT](ppt/week1.pptx)
-- [第二周 PPT](ppt/week2.pptx)
-
 ## 🖥️ 预览课程 PPT
 
 <iframe src="https://raw.githubusercontent.com/lucy-km/MKTG2031/main/notes/week1/week1_slides.pdf" width="100%" height="600px"></iframe>
