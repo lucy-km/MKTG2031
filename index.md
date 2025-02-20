@@ -35,9 +35,10 @@ layout: default
   <li>📄 <a href="ppt/week2.pptx">第二周 PPT 下载</a></li>
 </ul>
 
-<h3>🖥️ 预览课程 PPT</h3>
-<iframe src="https://raw.githubusercontent.com/lucy-km/MKTG2031/main/ppt/week1.pdf" width="100%" height="400px"></iframe>
-</div>
+## 🖥️ 预览课程 PPT
+
+<iframe src="https://raw.githubusercontent.com/lucy-km/MKTG2031/main/notes/Lecture%201%20Introduction%202025.pdf" width="100%" height="600px"></iframe>
+
 
 <!-- 📜 右侧：课程笔记 -->
 <div class="right-column">
