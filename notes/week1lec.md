@@ -24,6 +24,7 @@
   - Select date and time / 选择日期和时间  
   - Receive a calendar event (SAVE this in your calendar!) / 预订后会收到日历事件（请保存！）  
   - If selecting an online consult, a link will be emailed / 如果选择在线咨询，将收到会议链接  
+<img width="662" alt="Screenshot 2025-02-20 at 4 22 13 pm" src="https://github.com/user-attachments/assets/11111127-b8b1-4e11-bc3c-a6cbc303fd89" />
 
 ---  
 ## Course Description / 课程描述  
